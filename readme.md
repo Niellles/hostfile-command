@@ -6,4 +6,7 @@ Alternatively you can manually download hostfile.bat. **Note**: you'll have to m
 
 ```
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/Niellles/hostfile-command/main/hosts.bat', 'C:\Users\%USERNAME%\hosts.bat')"`
+```
+## Usage
+After installation just run `hostfile` from the commandline to open your computers host file.
 
