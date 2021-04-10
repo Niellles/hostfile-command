@@ -1,0 +1,6 @@
+# Ignore all the things!
+*
+
+# But not these things
+!.gitignore
+!hosts.bat
