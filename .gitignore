@@ -4,3 +4,4 @@
 # But not these things
 !.gitignore
 !hosts.bat
+!readme.md
